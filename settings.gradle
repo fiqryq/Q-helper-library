@@ -1,0 +1,3 @@
+include ':Qhelper'
+include ':app'
+rootProject.name = "Q Helper"
