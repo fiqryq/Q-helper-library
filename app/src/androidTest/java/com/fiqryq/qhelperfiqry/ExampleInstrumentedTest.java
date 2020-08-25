@@ -1,4 +1,4 @@
-package com.fiqryq.qhelper;
+package com.fiqryq.qhelperfiqry;
 
 import android.content.Context;
 

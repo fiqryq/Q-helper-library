@@ -1,4 +1,4 @@
-package com.fiqryq.qhelper;
+package com.fiqryq.helperlibrary;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("com.fiqryq.qhelper.test", appContext.getPackageName());
+        assertEquals("com.fiqryq.helperlibrary.test", appContext.getPackageName());
     }
 }
