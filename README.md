@@ -35,17 +35,16 @@ Step 2. Add the dependency
 
 ## Usage
 ```java
-        // Date Format :
+ // Date Format :
+ // Get hour,day and Month
+ HelpDateFormat.getTimeNow();
 
-        // Get hour,day and Month
-        HelpDateFormat.getTimeNow();
+ // Get name day today
+ HelpDateFormat.getNameDay();
 
-        // Get name day today
-        HelpDateFormat.getNameDay();
+ // Get hour
+ HelpDateFormat.getHour();
 
-        // Get hour
-        HelpDateFormat.getHour();
-
-        // Get month
-        HelpDateFormat.getHour();
+ // Get month
+ HelpDateFormat.getHour();
 ```
